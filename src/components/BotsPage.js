@@ -18,7 +18,7 @@ function BotsPage() {
       setYourBots([...yourBots, bot])
     }
   }
-
+//
   const removeBot = (bot) => {
     setYourBots(yourBots.filter((yourBot) => yourBot.id !== bot.id))
   }

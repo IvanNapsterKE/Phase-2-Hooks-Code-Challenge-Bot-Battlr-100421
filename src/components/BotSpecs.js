@@ -65,6 +65,7 @@ function BotSpecs({ bot }) {
                   "connect this to a function that adds this bot to your bot army list"
                 )
               }
+              //
             >
               Enlist
             </button>

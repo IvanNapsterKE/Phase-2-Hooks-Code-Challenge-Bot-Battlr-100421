@@ -21,5 +21,6 @@ function BotCollection({bots,handleClick,handleDelete}) {
     </div>
   );
 }
+//
 
 export default BotCollection;
