@@ -16,7 +16,7 @@ function YourBotArmy({bots,handleClick, handleDelete}) {
     <div className="ui segment inverted olive bot-army">
       <div className="ui five column grid">
         <div className="row bot-army-row">
-          {/*...and here...*/}
+          {/*...and here....*/}
           {botCollection}
           Your Bot Army
         </div>
